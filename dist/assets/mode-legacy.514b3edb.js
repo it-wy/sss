@@ -1,0 +1,1 @@
+System.register(["./vendor-legacy.d2f93b01.js"],(function(e){"use strict";var t,n;return{setters:[function(e){t=e.b,n=e.c}],execute:function(){e("default",{}).render=function(e,r,u,c,i,s){return t(),n("div",null," 模式 ")}}}}));
