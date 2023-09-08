@@ -1,0 +1,1 @@
+!function(){var e=document.createElement("style");e.innerHTML="",document.head.appendChild(e),System.register(["./vendor-legacy.de6210dc.js"],(function(e){"use strict";var n,t,d;return{setters:[function(e){n=e.b,t=e.c,d=e.Y}],execute:function(){e("default",{props:{id:""}}).render=function(e,r,c,i,s,u){return n(),t("div",null,"editdsadasdsadas "+d(c.id),1)}}}}))}();
